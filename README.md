@@ -156,9 +156,9 @@ Replace `[server_address]` with the server's public address.
 
 ## GitHub CI
 
-|File name| | Github Action | 
+|File name|Github Action |
 |---|---|
-|Dockerfile-cloak-server|![Cloak Server Docker Image CI](https://github.com/mohsenmottaghi/cloak-shadowsocks-docker/workflows/Cloak%20Server%20Docker%20Image%20CI/badge.svg)|
-|Dockerfile-cloak-client|![Cloak Client Docker Image CI](https://github.com/mohsenmottaghi/cloak-shadowsocks-docker/workflows/Cloak%20Client%20Docker%20Image%20CI/badge.svg)|
-|Dockerfile-shadowsocks-server|![Shadowsocks Server Docker Image CI](https://github.com/mohsenmottaghi/cloak-shadowsocks-docker/workflows/Shadowsocks%20Server%20Docker%20Image%20CI/badge.svg)|
-|Dockerfile-shadowsocks-client|![Shadowsocks Client Docker Image CI](https://github.com/mohsenmottaghi/cloak-shadowsocks-docker/workflows/Shadowsocks%20Client%20Docker%20Image%20CI/badge.svg)|
+| Dockerfile-cloak-server | ![Cloak Server Docker Image CI](https://github.com/mohsenmottaghi/cloak-shadowsocks-docker/workflows/Cloak%20Server%20Docker%20Image%20CI/badge.svg) |
+| Dockerfile-cloak-client | ![Cloak Client Docker Image CI](https://github.com/mohsenmottaghi/cloak-shadowsocks-docker/workflows/Cloak%20Client%20Docker%20Image%20CI/badge.svg) |
+| Dockerfile-shadowsocks-server | ![Shadowsocks Server Docker Image CI](https://github.com/mohsenmottaghi/cloak-shadowsocks-docker/workflows/Shadowsocks%20Server%20Docker%20Image%20CI/badge.svg) |
+| Dockerfile-shadowsocks-client | ![Shadowsocks Client Docker Image CI](https://github.com/mohsenmottaghi/cloak-shadowsocks-docker/workflows/Shadowsocks%20Client%20Docker%20Image%20CI/badge.svg) |
