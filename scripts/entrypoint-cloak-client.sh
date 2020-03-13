@@ -28,4 +28,4 @@ echo -e "[!] Local Port : \t${LOCAL_PORT}"
 echo -e "[!] Admin UID : \t${ADMINUID}"
 echo -e "[+] Happy Domain Fronting :)"
 
-/app/ck-client -c /app/config.json -s ${SERVER_IP} -l ${LOCAL_PORT} -a ${ADMINUID}
+/app/ck-client -c /app/config.json -s ${SERVER_IP} -i 0.0.0.0 -l ${LOCAL_PORT} -a ${ADMINUID}
